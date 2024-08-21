@@ -1,0 +1,11 @@
+.imagen-logo{
+    height: 60px;
+    width: 60px;
+    background-color: aquamarine;
+    border-radius: 30 px;
+}
+
+.imagen-logo img{
+    height: 100%;
+    border-radius: 30 px;
+}
